@@ -1,22 +1,24 @@
--  Working with React in ES6
+# Working with React in ES6
 
 This project outlines how to work wit React.js using es6
 
 Setting up and getting started with a new project
 
 > npm init
+
 > npm install react react-dom --save
+
 > npm install babel webpack webpack-dev-server -g
 
 Make sure the following dependencies are installed on your system
 
 > npm install babel-loader babel-core babel-preset-es2015 babel-preset-react
 
-Running the project
+## Running the project
 
 > npm start
 
-Overview of concepts implemented
+## Overview of concepts implemented
 
 - Basic components
 - Rendering JSX (HTML transpiled into JavaScript)
